@@ -156,7 +156,7 @@ include_directories(
 ## Mark executable scripts (Python etc.) for installation
 ## in contrast to setup.py, you can choose the destination
 install(PROGRAMS
-  scripts/move_targets.py
+  scripts/move_targets.py scripts/move_arm.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
