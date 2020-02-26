@@ -1,0 +1,12 @@
+### This is the Spot Saving File ###
+home_env1:
+    position:
+        x: 7.2598323822
+        y: -0.7738301754
+        z: 0.00432205200195
+
+    orientation:
+        x: 0.0
+        y: 0.0
+        z: 0.0
+        w: 1.0

@@ -1,0 +1,7 @@
+<launch>
+
+    <node pkg="rbkairos_navigation" type="spots_to_file_from_rviz.py" name="spots_to_file" output="screen" args="recorded_spots">
+
+    </node>
+
+</launch>
